@@ -2,22 +2,25 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="http://biostat.ufl.edu/" target="_blank">Department of Biostatistics</a> • <a href="http://ufl.edu/" target="_blank">University of Florida</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: personal_pic.jpg
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is DONGYUAN WU (吴东苑 in Chinese). I am an incoming first-year Ph.D. student in the <i><a href="http://biostat.ufl.edu/" target="_blank">Department of Biostatistics</a></i> at <i><a href="http://ufl.edu/" target="_blank">University of Florida</a></i> in Fall 2020.
+I recieved my MS degree in Biostatistics from Univeristy of Florida in 2020 and my BS degree in Applied Statistics from Minzu University of China in 2017.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p>My research interests include but are not limited in:</p>
+<li>Genomics</li>
+<li>Data Science</li>
+<li>Data Visualization</li>
+<li>Machine Learning</li>
+<li>Causal Inference</li>
+<li>Clinical Trials</li>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>Here is my <a href="/assets/pdf/CV.pdf" target="_blank">CV</a>. Nice to meet you! :)</p>
