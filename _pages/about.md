@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="http://biostat.ufl.edu/" target="_blank">Department of Biostatistics</a> • <a href="http://ufl.edu/" target="_blank">University of Florida</a>
+description: Graduate Student • <a href="http://biostat.ufl.edu/" target="_blank">Department of Biostatistics</a> • <a href="http://ufl.edu/" target="_blank">University of Florida</a>
 
 profile:
   align: right
