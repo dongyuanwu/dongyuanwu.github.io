@@ -213,6 +213,17 @@ footer.sticky-bottom {
   &:hover {
     background-color: $theme-color;
   }
+  
+  > .prev {
+    float: left;
+    width: 50%;
+  }
+
+  > .next {
+    float: right;
+    text-align: right;
+    width: 50%;
+  }
 }
 
 
