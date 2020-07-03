@@ -36,7 +36,7 @@ a, table.table a {
 
 .profile {
     .address {
-      font-family: Arial;
+      font-family: Arial, Helvetica, sans-serif;
       font-size: 1.2rem;
       p {
         margin: 0;
@@ -165,7 +165,7 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $grey-color-dark;
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
@@ -191,8 +191,8 @@ footer.sticky-bottom {
   padding: 0;
   li {
     list-style: none;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
     .post-meta {
       color: $grey-color;
       font-size: 0.875rem;

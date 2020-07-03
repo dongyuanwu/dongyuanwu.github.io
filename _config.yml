@@ -53,8 +53,8 @@ google_analytics: UA-166301788-1 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Dongyuan Wu  # your blog must have a name for it to show up in the nav bar
-blog_description: Some notes or blogs
+blog_name: Hello World  # your blog must have a name for it to show up in the nav bar
+blog_description: Some notes or thoughts
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -69,11 +69,6 @@ disqus_shortname: dongyuanwu # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
