@@ -213,16 +213,35 @@ footer.sticky-bottom {
   &:hover {
     background-color: $theme-color;
   }
-  
+}
+
+
+
+.pagination1 {
+  font-weight: 300;
+  padding: 40px 0;
+  width: 100%;
+  display: inline-block;
+
+  @include mobile {
+    padding: 24px 0;
+  }
+
   > .prev {
     float: left;
     width: 50%;
+    a {
+      padding: 10px 20px;
+    }
   }
 
   > .next {
     float: right;
     text-align: right;
     width: 50%;
+    a {
+      padding: 10px 20px;
+    }
   }
 }
 
