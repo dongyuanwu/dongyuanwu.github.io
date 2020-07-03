@@ -223,10 +223,6 @@ footer.sticky-bottom {
   width: 100%;
   display: inline-block;
 
-  @include mobile {
-    padding: 24px 0;
-  }
-
   > .prev {
     float: left;
     width: 50%;
