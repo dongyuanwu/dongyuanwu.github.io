@@ -1,16 +1,16 @@
 ---
 layout: page
 title: RSBID
-description: Resampling Strategies for Binary Imbalanced Datasets
+description: An R package provides resampling strategies for binary imbalanced datasets
 img: 
 importance: 1
 ---
 
-RSBID is an R package. This package contains functions of resampling strategies to make the binary imbalanced datasets be more balanced. It is important for an imbalanced dataset before applying a classification algorithm, for the reason that class imbalance will lead to a bad performance of classifiers. 
+This package contains functions of resampling strategies to make the binary imbalanced datasets be more balanced. It is important for an imbalanced dataset before applying a classification algorithm, for the reason that class imbalance will lead to a bad performance of classifiers. 
 
 ## Installation
 
-`RSBID` is available on the github now.
+`RSBID` is available on the <a href="https://github.com/dongyuanwu/RSBID" target="_blank">github</a> now.
 
 ```{r}
 # install.packages("devtools")
