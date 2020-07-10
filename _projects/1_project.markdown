@@ -2,7 +2,7 @@
 layout: page
 title: RSBID
 description: An R package provides resampling strategies for binary imbalanced datasets.
-img: 
+img: /assets/img/proj1_cover.jpg
 importance: 1
 ---
 
