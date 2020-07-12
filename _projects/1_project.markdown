@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RSBID
-description: An R package provides resampling strategies for binary imbalanced datasets.
+title: COVID19FL
+description: Florida's COVID-19 Data Visualization
 img: /assets/img/proj1_cover.png
 importance: 1
 ---
