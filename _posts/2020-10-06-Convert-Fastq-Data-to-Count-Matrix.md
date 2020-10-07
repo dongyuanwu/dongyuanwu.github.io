@@ -40,7 +40,7 @@ STAR --runMode genomeGenerate --genomeDir /PATH/genome \
 
 `--runThreadN`, `--genomeChrBinNbits`, `--genomeSAsparseD`, and `--genomeSAindexNbases` are all the parameters can improve the speed or reduce the RAM used.
 
-**Step 4: Align sequencing reads to the indexed genome
+**Step 4:** Align sequencing reads to the indexed genome
 
 ```
 STAR --quantMode GeneCounts --genomeDir /PATH/genome --runThreadN 8 \
@@ -69,4 +69,5 @@ The `.txt` file we get will be a little massive and we can use the command below
 cut -f1,7,8,9,10,11,12 /PATH/MATRIX_FILENAME.txt > /PATH/MATRIX_NEW.txt
 ```
 
-We have done!
+
+**We have done!**
