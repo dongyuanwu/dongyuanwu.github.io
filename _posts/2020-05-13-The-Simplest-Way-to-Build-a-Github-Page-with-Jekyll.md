@@ -10,9 +10,9 @@ comments: true
 To be honest, I am only a beginner and have just built this personal homepage. I would like to record what I have done and maybe it can provide references for someone also interested in developing a Github page with Jekyll.
 
 I just copy-pasted the following sentences from Wikipedia: 
-```
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open-source MIT license.
-```
+
+> Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open-source MIT license.
+
 However, we can build our GitHub page most easily without learning Ruby or even installing Jekyll. Let's start!
 
 **Step1: Find a Jekyll theme you like**
