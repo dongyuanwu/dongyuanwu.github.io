@@ -38,7 +38,7 @@ module Jekyll
 
     def initialize(tag, params, token)
       @limit = params.to_i
-      @access_token = ${{ secrets.INS_TOKEN }}
+      @access_token = ENV['JEKYLLGRAM_TOKEN']
       @api_url = 'https://api.instagram.com/v1'
 
       super
