@@ -103,6 +103,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyllgram
   # - bootstrap
   # - material-sass
 
