@@ -18,10 +18,10 @@ I recieved my MS degree in Biostatistics from Univeristy of Florida in 2020 and 
 <p>My research interests include but are not limited in:</p>
 
 <li>Genomics</li>
+<li>Spatial Transcriptomics</li>
 <li>Data Science</li>
 <li>Data Visualization</li>
 <li>Machine Learning</li>
-<li>Causal Inference</li>
 <li>Clinical Trials</li>
 <br>
 <p>Here is my <a href="/assets/pdf/CV.pdf" target="_blank">CV</a>. Nice to meet you! :)</p>
