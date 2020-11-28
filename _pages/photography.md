@@ -5,5 +5,4 @@ permalink: /photography/
 nav: true
 ---
 
-<!-- SnapWidget -->
-<iframe src="https://snapwidget.com/embed/894311" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:760px; height:570px"></iframe>
+<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'r0sJi0-hbzCh05qxUogg'});Pixlee.addSimpleWidget({widgetId:'30658'});};</script><script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
